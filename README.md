@@ -315,20 +315,6 @@ Robotics
 
 ---
 
-
-<a href="SEU_REPOSITORIO_PORTFOLIO">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-8B0000?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-</a>
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
 # `> CURRENT_MISSION`
 
 ```text
